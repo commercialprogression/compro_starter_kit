@@ -9,7 +9,7 @@ clear
 # I want a blank line at the top
 echo
 
-# How about some ACSII art?
+# How about some extended ACSII art?
 cat<<EOF
   ██████╗ ██████╗ ███╗   ███╗██████╗ ██████╗  ██████╗ 
  ██╔════╝██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔═══██╗
